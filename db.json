@@ -1,0 +1,43 @@
+{
+  "Students": [
+    {
+      "id": "584a",
+      "name": "Vyankatesh",
+      "phone": "1236547890",
+      "age": "20",
+      "dateofbirth": "1997-08-10",
+      "country": "India",
+      "state": "MH",
+      "city": "Wani",
+      "role": "React Js Developer",
+      "company": "Optical Arc Pvt Ltd",
+      "dateofjoin": "2023-10-05"
+    },
+    {
+      "id": "5629",
+      "name": "Pranav",
+      "phone": "3456321789",
+      "age": "25",
+      "dateofbirth": "2021-10-10",
+      "country": "India",
+      "state": "MH",
+      "city": "Wani",
+      "role": "React Js Developer",
+      "company": "Optical Arc Pvt Ltd",
+      "dateofjoin": "2021-10-10"
+    },
+    {
+      "id": "2c67",
+      "name": "Amit",
+      "phone": "1555445545",
+      "age": "25",
+      "dateofbirth": "1010-10-10",
+      "country": "India",
+      "state": "MH",
+      "city": "Latur",
+      "role": "React Js Developer",
+      "company": "Optical Arc Pvt Ltd",
+      "dateofjoin": "1010-10-10"
+    }
+  ]
+}
